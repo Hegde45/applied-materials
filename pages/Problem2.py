@@ -2,9 +2,6 @@ import pandas as pd
 import streamlit as st
 from datetime import datetime, timedelta
 import plotly.graph_objects as go
-import urllib.request 
-import requests
-from streamlit_url_fragment import get_fragment
 
 st.set_page_config(layout="wide", page_title='Problem 2')
 
